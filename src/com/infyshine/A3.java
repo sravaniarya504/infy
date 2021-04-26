@@ -13,7 +13,7 @@ public class A3 {
 	}
 	A3()
 	{
-		
+		this.x=this.m1();
 		System.out.println("A Constructor");
 	}
 }

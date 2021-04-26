@@ -18,7 +18,7 @@ public class Break {
 			}
 		finally{
 			if(i==30) {
-			contine;
+			continue;
 			}
 		}
 	}
